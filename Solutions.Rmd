@@ -11,9 +11,7 @@ author:
     toc_depth: 3
     self_contained: false
 draft: false
-repository_url: https://github.com/timchurches/blog/tree/master/_posts/2020-03-18-modelling-the-effects-of-public-health-interventions-on-covid-19-transmission-part-2
-bibliography: churches2020modellingcovid19rpart2_references.bib
----
+
 
 ```{r setup, include=FALSE, eval=TRUE}
 version_date <- lubridate::ymd("2020-03-11")
